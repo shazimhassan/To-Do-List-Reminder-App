@@ -30,3 +30,11 @@ li{
 li:hover{
     background-color: lightgreen;
 }
+img{
+    height: 100px;
+    width: 50%;
+    
+}
+html{
+    background-color: #FEEC79
+}
