@@ -1,9 +1,9 @@
 html{font-family:sans-serif}
 .pomodoro-estimate{
   font-weight: bold;
-  color: #F44336;
+  color: #F43335;
   background-color: #F5F5F5;
-  border-radius: 50px;
+  border-radius: 10px;
   font-size: 14px;
   padding: 5px 10px 5px 10px;
 }
